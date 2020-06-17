@@ -1,0 +1,27 @@
+update_field visualpart 0x0085e275 baseCarHashes[3] 3235415921
+copy_node virtualitem 0x44f1ac79 0x44f1ac79 0xb288809e
+delete_node virtualitem 0xb288809e
+copy_node virtualitem 0x44f1ac79 0xb288809e
+update_field virtualitem 0xb288809e hash 3611751497
+update_field virtualitem 0xb288809e itemName CARNEONGLOW_YR10
+copy_node virtualitem 0xb288809e 0x5d2e1e7a
+update_field virtualitem 0x5d2e1e7a hash 3611519579
+update_field virtualitem 0x5d2e1e7a itemName CARNEONGLOW_SBRW
+copy_node visualpart 0x44f1ac79 0xb288809e
+update_field visualpart 0xb288809e visualPartHash 3611751497
+copy_node visualpart 0xb288809e 0x5d2e1e7a
+update_field visualpart 0x5d2e1e7a visualPartHash 3611519579
+copy_node brands visual_brand_nfs visual_brand_eaglejump
+update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 GM_CATALOG_000240EJ
+update_field brands visual_brand_eaglejump 0xd59138e6 GM_CATALOG_0DC000EJ
+update_field virtualitem 0xb288809e brand visual_brand_eaglejump
+update_field virtualitem 0x5d2e1e7a brand visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 "Eagle Jump"
+update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
+update_field virtualitem 0xb288809e title "YEAR 10 NEON"
+update_field virtualitem 0xb288809e shortdescription "YEAR 10 NEON"
+update_field virtualitem 0x5d2e1e7a title "SBRW NEON"
+update_field virtualitem 0x5d2e1e7a shortdescription "SBRW NEON"
+update_field virtualitem 0xb288809e shortdescription GM_CATALOG_000049F3
+update_field virtualitem 0x5d2e1e7a shortdescription GM_CATALOG_000049F3

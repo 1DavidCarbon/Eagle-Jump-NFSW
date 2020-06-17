@@ -1,0 +1,10 @@
+copy_node virtualitem 0x44f1ac79 0xb288809e
+update_field virtualitem 0xb288809e hash 3611751497
+update_field virtualitem 0xb288809e itemName CARNEONGLOW_YR10
+copy_node virtualitem 0xb288809e 0x5d2e1e7a
+update_field virtualitem 0x5d2e1e7a hash 3611519579
+update_field virtualitem 0x5d2e1e7a itemName CARNEONGLOW_SBRW
+copy_node visualpart 0x44f1ac79 0xb288809e
+update_field visualpart 0xb288809e visualPartHash 3611751497
+copy_node visualpart 0xb288809e 0x5d2e1e7a
+update_field visualpart 0x5d2e1e7a visualPartHash 3611519579

@@ -25,6 +25,7 @@ What Neons are included:
 - UWU.GG
 - Error Codes
 - Wumpus
+
 Found an error? Report it on the GitHub Issues Page!
 https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
 

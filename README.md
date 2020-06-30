@@ -31,8 +31,12 @@ https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
 
 # Note to Server Owners
 
-So you did read one of the first neon lines correctly? *Year 10* 
-Yea, If possible make sure to not make this Neon design go live, on the in-game store before July 20. After this date, make the *Year 10* Neon available to everyone to buy in-game.
+So did you read one of the first neon lines correctly?
+
+I created this design before NFS French Events design went live. So this is an original design based on Year 2 neon, but without the NFS logo.
+
+If possible make sure to not make this Neon design go live, on the in-game store before July 20. After this date, make the *Year 10* Neon available to everyone to buy in-game.
+
 It will be a nice treat for the community. :)
 
 p.s. You can tease it, just make it settle.

@@ -1,0 +1,184 @@
+game W
+ui_text Eagle Jump Neons v1.0
+ui_text by DavidCarbon
+ui_text https://davidcarbon.dev
+ui_text#
+ui_text The world's first community created neon designs for Neons in Need for Speed: World
+ui_text#
+ui_text New Visual Brand will be added to mark a new era of designs:
+ui_text - Eagle Jump
+ui_text#
+ui_text What Neons are included:
+ui_text - Year 10
+ui_text - Soapbox Race World
+ui_text - Eagle Jump
+ui_text - NFS French Events
+ui_text - NFSW Community Hub
+ui_text - NightRiderz
+ui_text - The World Is Ours
+ui_text - WorldOnline.PL
+ui_text - World Evolved
+ui_text - WorldUnited.GG
+ui_text - Freeroam Sparkserver
+ui_text - Underground Stage
+ui_text - UWU.GG
+ui_text - Error Codes
+ui_text - Wumpus
+ui_text#
+ui_text Found an error? Report it on the GitHub Issues Page!
+ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
+
+# EAGLE JUMP VISUAL BRAND
+copy_node brands visual_brand_nfs visual_brand_eaglejump
+update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
+
+# CARNEONGLOW_YR10
+copy_node virtualitem 0x44f1ac79 0xb288809e
+update_field virtualitem 0xb288809e hash 3611751497
+update_field virtualitem 0xb288809e itemName CARNEONGLOW_YR10
+update_field virtualitem 0xb288809e brand visual_brand_eaglejump
+update_field virtualitem 0xb288809e title "YEAR 10 NEON"
+update_field virtualitem 0xb288809e icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xb288809e
+update_field visualpart 0xb288809e visualPartHash 3611751497
+
+# CARNEONGLOW_SBRW
+copy_node virtualitem 0x44f1ac79 0x5d2e1e7a
+update_field virtualitem 0x5d2e1e7a hash 3611519579
+update_field virtualitem 0x5d2e1e7a itemName CARNEONGLOW_SBRW
+update_field virtualitem 0x5d2e1e7a brand visual_brand_eaglejump
+update_field virtualitem 0x5d2e1e7a title "SOAPBOX RACE WORLD NEON"
+update_field virtualitem 0x5d2e1e7a icon PART_R3_NE_RED
+copy_node visualpart 0x44f1ac79 0x5d2e1e7a
+update_field visualpart 0x5d2e1e7a visualPartHash 3611519579
+
+# CARNEONGLOW_EAGLE_JUMP
+copy_node virtualitem 0x44f1ac79 0xd2faec7e
+update_field virtualitem 0xd2faec7e hash 2093904630
+update_field virtualitem 0xd2faec7e itemName CARNEONGLOW_EAGLE_JUMP
+update_field virtualitem 0xd2faec7e brand visual_brand_eaglejump
+update_field virtualitem 0xd2faec7e title "EAGLE JUMP NEON"
+update_field virtualitem 0xd2faec7e icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xd2faec7e
+update_field visualpart 0xd2faec7e visualPartHash 2093904630
+
+# CARNEONGLOW_NFS_FRENCH_EVENTS
+copy_node virtualitem 0x44f1ac79 0x0394b5f0
+update_field virtualitem 0x0394b5f0 hash 2046262637
+update_field virtualitem 0x0394b5f0 itemName CARNEONGLOW_NFS_FRENCH_EVENTS
+update_field virtualitem 0x0394b5f0 brand visual_brand_eaglejump
+update_field virtualitem 0x0394b5f0 title "NFS FRENCH EVENTS NEON"
+update_field virtualitem 0x0394b5f0 icon PART_R3_NE_BLUE
+copy_node visualpart 0x44f1ac79 0x0394b5f0
+update_field visualpart 0x0394b5f0 visualPartHash 2046262637
+
+# CARNEONGLOW_NFSW_CH
+copy_node virtualitem 0x44f1ac79 0x0a54ac3b
+update_field virtualitem 0x0a54ac3b hash 4147787973
+update_field virtualitem 0x0a54ac3b itemName CARNEONGLOW_NFSW_CH
+update_field virtualitem 0x0a54ac3b brand visual_brand_eaglejump
+update_field virtualitem 0x0a54ac3b title "NFSW COMMUNITY HUB NEON"
+update_field virtualitem 0x0a54ac3b icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x0a54ac3b
+update_field visualpart 0x0a54ac3b visualPartHash 4147787973
+
+# CARNEONGLOW_NR
+copy_node virtualitem 0x44f1ac79 0x1321b592
+update_field virtualitem 0x1321b592 hash 1805703773
+update_field virtualitem 0x1321b592 itemName CARNEONGLOW_NR
+update_field virtualitem 0x1321b592 brand visual_brand_eaglejump
+update_field virtualitem 0x1321b592 title "NIGHTRIDERZ NEON"
+update_field virtualitem 0x1321b592 icon PART_R3_NE_PURPLE
+copy_node visualpart 0x44f1ac79 0x1321b592
+update_field visualpart 0x1321b592 visualPartHash 1805703773
+
+# CARNEONGLOW_TWIO
+copy_node virtualitem 0x44f1ac79 0x61553244
+update_field virtualitem 0x61553244 hash 3611578080
+update_field virtualitem 0x61553244 itemName CARNEONGLOW_TWIO
+update_field virtualitem 0x61553244 brand visual_brand_eaglejump
+update_field virtualitem 0x61553244 title "THE WORLD IS OURS NEON"
+update_field virtualitem 0x61553244 icon PART_R3_NE_RED
+copy_node visualpart 0x44f1ac79 0x61553244
+update_field visualpart 0x61553244 visualPartHash 3611578080
+
+# CARNEONGLOW_WOPL
+copy_node virtualitem 0x44f1ac79 0xdfc23ab3
+update_field virtualitem 0xdfc23ab3 hash 3611677407
+update_field virtualitem 0xdfc23ab3 itemName CARNEONGLOW_WOPL
+update_field virtualitem 0xdfc23ab3 brand visual_brand_eaglejump
+update_field virtualitem 0xdfc23ab3 title "WORLDONLINE.PL NEON"
+update_field virtualitem 0xdfc23ab3 icon PART_R3_NE_RED
+copy_node visualpart 0x44f1ac79 0xdfc23ab3
+update_field visualpart 0xdfc23ab3 visualPartHash 3611677407
+
+# CARNEONGLOW_WORLD_EVOLVED
+copy_node virtualitem 0x44f1ac79 0xa0caf9fa
+update_field virtualitem 0xa0caf9fa hash 992650681
+update_field virtualitem 0xa0caf9fa itemName CARNEONGLOW_WORLD_EVOLVED
+update_field virtualitem 0xa0caf9fa brand visual_brand_eaglejump
+update_field virtualitem 0xa0caf9fa title "WORLD EVOLVED NEON"
+update_field virtualitem 0xa0caf9fa icon PART_R3_NE_BLUE
+copy_node visualpart 0x44f1ac79 0xa0caf9fa
+update_field visualpart 0xa0caf9fa visualPartHash 992650681
+
+# CARNEONGLOW_WORLDUNITED_GG
+copy_node virtualitem 0x44f1ac79 0xed84b5d6
+update_field virtualitem 0xed84b5d6 hash 2220886267
+update_field virtualitem 0xed84b5d6 itemName CARNEONGLOW_WORLDUNITED_GG
+update_field virtualitem 0xed84b5d6 brand visual_brand_eaglejump
+update_field virtualitem 0xed84b5d6 title "WORLDUNITED.GG NEON"
+update_field virtualitem 0xed84b5d6 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xed84b5d6
+update_field visualpart 0xed84b5d6 visualPartHash 2220886267
+
+# CARNEONGLOW_FRSS
+copy_node virtualitem 0x44f1ac79 0x8bee6d7e
+update_field virtualitem 0x8bee6d7e hash 3611069851
+update_field virtualitem 0x8bee6d7e itemName CARNEONGLOW_FRSS
+update_field virtualitem 0x8bee6d7e brand visual_brand_eaglejump
+update_field virtualitem 0x8bee6d7e title "FREEROAM SPARKSERVER NEON"
+update_field virtualitem 0x8bee6d7e icon PART_R3_NE_YELLOW
+copy_node visualpart 0x44f1ac79 0x8bee6d7e
+update_field visualpart 0x8bee6d7e visualPartHash 3611069851
+
+# CARNEONGLOW_UNDERGROUND_STAGE
+copy_node virtualitem 0x44f1ac79 0x55dd2406
+update_field virtualitem 0x55dd2406 hash 2315134109
+update_field virtualitem 0x55dd2406 itemName CARNEONGLOW_UNDERGROUND_STAGE
+update_field virtualitem 0x55dd2406 brand visual_brand_eaglejump
+update_field virtualitem 0x55dd2406 title "UNDERGROUND STAGE NEON"
+update_field virtualitem 0x55dd2406 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x55dd2406
+update_field visualpart 0x55dd2406 visualPartHash 2315134109
+
+# CARNEONGLOW_UWU_GG
+copy_node virtualitem 0x44f1ac79 0xb7ff209e
+update_field virtualitem 0xb7ff209e hash 3153039755
+update_field virtualitem 0xb7ff209e itemName CARNEONGLOW_UWU_GG
+update_field virtualitem 0xb7ff209e brand visual_brand_eaglejump
+update_field virtualitem 0xb7ff209e title "UWU.GG NEON"
+update_field virtualitem 0xb7ff209e icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xb7ff209e
+update_field visualpart 0xb7ff209e visualPartHash 3153039755
+
+# CARNEONGLOW_ERROR_CODES
+copy_node virtualitem 0x44f1ac79 0x036f9dfc
+update_field virtualitem 0x036f9dfc hash 161597236
+update_field virtualitem 0x036f9dfc itemName CARNEONGLOW_ERROR_CODES
+update_field virtualitem 0x036f9dfc brand visual_brand_eaglejump
+update_field virtualitem 0x036f9dfc title "ERROR CODES NEON"
+update_field virtualitem 0x036f9dfc icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x036f9dfc
+update_field visualpart 0x036f9dfc visualPartHash 161597236
+
+# CARNEONGLOW_WUMPUS_WAS_HERE
+copy_node virtualitem 0x44f1ac79 0x920364fa
+update_field virtualitem 0x920364fa hash 2444655899
+update_field virtualitem 0x920364fa itemName CARNEONGLOW_WUMPUS_WAS_HERE
+update_field virtualitem 0x920364fa brand visual_brand_eaglejump
+update_field virtualitem 0x920364fa title "WUMPUS NEON"
+update_field virtualitem 0x920364fa icon PART_R3_NE_PURPLE
+copy_node visualpart 0x44f1ac79 0x920364fa
+update_field visualpart 0x920364fa visualPartHash 2444655899

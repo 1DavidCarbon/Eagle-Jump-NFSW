@@ -1,0 +1,315 @@
+{
+      "Name": "CARNEONGLOW_YR10",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR10"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751497,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_SBRW",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_SBRW"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611519579,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_EAGLE_JUMP",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_EAGLE_JUMP"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2093904630,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_NFS_FRENCH_EVENTS",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NFS_FRENCH_EVENTS"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2046262637,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_NFSW_CH",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NFSW_CH"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 4147787973,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_NR",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NR"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1805703773,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_TWIO",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_TWIO"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611578080,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_WOPL",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_WOPL"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611677407,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_WORLD_EVOLVED",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_WORLD_EVOLVED"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 992650681,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_WORLDUNITED_GG",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_WORLDUNITED_GG"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2220886267,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_FRSS",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_FRSS"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611069851,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_UNDERGROUND_STAGE",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_UNDERGROUND_STAGE"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2315134109,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_UWU_GG",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_UWU_GG"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3153039755,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_ERROR_CODES",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_ERROR_CODES"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 161597236,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_WUMPUS_WAS_HERE",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_WUMPUS_WAS_HERE"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2444655899,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }

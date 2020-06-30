@@ -1,9 +1,0 @@
-copy_node brands visual_brand_nfs visual_brand_eaglejump
-update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
-update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
-update_field virtualitem 0xb288809e brand visual_brand_eaglejump
-update_field virtualitem 0xb288809e title "YEAR 10 NEON"
-update_field virtualitem 0xb288809e shortdescription GM_CATALOG_000049F3
-update_field virtualitem 0x5d2e1e7a brand visual_brand_eaglejump
-update_field virtualitem 0x5d2e1e7a title "SBRW NEON"
-update_field virtualitem 0x5d2e1e7a shortdescription GM_CATALOG_000049F3

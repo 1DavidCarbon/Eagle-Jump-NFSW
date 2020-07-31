@@ -182,3 +182,33 @@ update_field virtualitem 0x920364fa title "WUMPUS NEON"
 update_field virtualitem 0x920364fa icon PART_R3_NE_PURPLE
 copy_node visualpart 0x44f1ac79 0x920364fa
 update_field visualpart 0x920364fa visualPartHash 2444655899
+
+# CARNEONGLOW_NFSW_2009
+copy_node virtualitem 0x44f1ac79 0xaf21e33d
+update_field virtualitem 0xaf21e33d hash 2929839077
+update_field virtualitem 0xaf21e33d itemName CARNEONGLOW_NFSW_2009
+update_field virtualitem 0xaf21e33d brand visual_brand_eaglejump
+update_field virtualitem 0xaf21e33d title "2009 NFS:W Neon"
+update_field virtualitem 0xaf21e33d icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xaf21e33d
+update_field visualpart 0xaf21e33d visualPartHash 2929839077
+
+# CARNEONGLOW_BUGATTI_DIVO
+copy_node virtualitem 0x44f1ac79 0xbcac8255
+update_field virtualitem 0xbcac8255 hash 1220011486
+update_field virtualitem 0xbcac8255 itemName CARNEONGLOW_BUGATTI_DIVO
+update_field virtualitem 0xbcac8255 brand visual_brand_eaglejump
+update_field virtualitem 0xbcac8255 title "DIVO NEON"
+update_field virtualitem 0xbcac8255 icon PART_R3_NE_BLUE
+copy_node visualpart 0x44f1ac79 0xbcac8255
+update_field visualpart 0xbcac8255 visualPartHash 1220011486
+
+# CARNEONGLOW_SUH
+copy_node virtualitem 0x44f1ac79 0x2ba04ac4
+update_field virtualitem 0x2ba04ac4 hash 3753655277
+update_field virtualitem 0x2ba04ac4 itemName CARNEONGLOW_SUH
+update_field virtualitem 0x2ba04ac4 brand visual_brand_eaglejump
+update_field virtualitem 0x2ba04ac4 title "STRAIGHTUPHIPPO NEON"
+update_field virtualitem 0x2ba04ac4 icon PART_R3_NE_PURPLE
+copy_node visualpart 0x44f1ac79 0x2ba04ac4
+update_field visualpart 0x2ba04ac4 visualPartHash 3753655277

@@ -2988,6 +2988,69 @@
           "Strings": []
         }
       ]
+    },
+	{
+      "Name": "CARNEONGLOW_NFSW_2009",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NFSW_2009"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2929839077,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_BUGATTI_DIVO",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_BUGATTI_DIVO"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1220011486,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_SUH",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_SUH"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3753655277,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
     }	
   ]
 }

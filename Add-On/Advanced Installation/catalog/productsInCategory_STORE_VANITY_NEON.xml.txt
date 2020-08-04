@@ -376,3 +376,108 @@
 		<WebIcon/>
 		<WebLocation/>
 	</ProductTrans>	
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>2759195327</Hash>
+		<Icon>PART_R3_NE_PURPLE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON133</ProductId>
+		<ProductTitle>KURUHS</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>3210548741</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON134</ProductId>
+		<ProductTitle>NOBEDS</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>2135510256</Hash>
+		<Icon>PART_R3_NE_YELLOW</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON135</ProductId>
+		<ProductTitle>LP-RIPPER24</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>2683446116</Hash>
+		<Icon>PART_R3_NE_YELLOW</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON136</ProductId>
+		<ProductTitle>CRAPTASTICJACK</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>3094965934</Hash>
+		<Icon>PART_R3_NE_PINK</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON137</ProductId>
+		<ProductTitle>NINERFAN</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	

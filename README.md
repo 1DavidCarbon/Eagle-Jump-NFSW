@@ -25,6 +25,14 @@ What Neons are included:
 - UWU.GG
 - Error Codes
 - Wumpus
+- 2009 NFS:W Neon
+- DIVO NEON
+- STRAIGHTUPHIPPO NEON
+- KURUHS NEON
+- NOBEDS NEON
+- LP-RIPPER24 NEON
+- CRAPTASTICJACK NEON
+- NINERFAN NEON
 
 Found an error? Report it on the GitHub Issues Page!
 https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues

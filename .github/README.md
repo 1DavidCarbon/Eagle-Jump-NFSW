@@ -41,6 +41,10 @@ https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
 
 For servers, I have included the textures and there appropriate hashes to implement. It's meant to be used with Vltd and Arron, but this may vary for you.
 
+# Latest Download Link
+
+[Download](https://github.com/1DavidCarbon/Eagle-Jump-NFSW/archive/master.zip)
+
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:

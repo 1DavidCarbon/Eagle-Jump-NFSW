@@ -44,16 +44,16 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Language Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/store.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw071.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw072.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw073.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw075.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw077.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw079.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw081.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw083.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw084.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw085.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw158.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw159.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw160.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw161.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw162.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw163.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw164.jpg) | ![N/A]()
+![Language Prompt](../Images/Images/store.jpg) | ![Default Directory](../Images/Images/nfsw071.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw072.jpg) | ![Default Directory](../Images/Images/nfsw073.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw074.jpg) | ![Default Directory](../Images/Images/nfsw075.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw076.jpg) | ![Default Directory](../Images/Images/nfsw077.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw078.jpg) | ![Default Directory](../Images/Images/nfsw079.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw080.jpg) | ![Default Directory](../Images/Images/nfsw081.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw082.jpg) | ![Default Directory](../Images/Images/nfsw083.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw084.jpg) | ![Default Directory](../Images/Images/nfsw085.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw158.jpg) | ![Default Directory](../Images/Images/nfsw159.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw160.jpg) | ![Default Directory](../Images/Images/nfsw161.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw162.jpg) | ![Default Directory](../Images/Images/nfsw163.jpg)
+![Finished Installation Prompt](../Images/Images/nfsw164.jpg) | 
 

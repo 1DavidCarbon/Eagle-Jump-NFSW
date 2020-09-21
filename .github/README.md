@@ -25,38 +25,35 @@ What Neons are included:
 - UWU.GG
 - Error Codes
 - Wumpus
-- 2009 NFS:W Neon
-- DIVO NEON
-- STRAIGHTUPHIPPO NEON
-- KURUHS NEON
-- NOBEDS NEON
-- LP-RIPPER24 NEON
-- CRAPTASTICJACK NEON
-- NINERFAN NEON
+- 2009 NFS:W
+- Dvio
+- StraightupHippo
+- KuruHS
+- Nobeds
+- LP-RIPPER24
+- CRAPTASTICJACK
+- NinerFan
 
 Found an error? Report it on the GitHub Issues Page!
 https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
 
-# Note to Server Owners
+# Add-ons
 
-So did you read one of the first neon lines correctly?
-
-I created this design before NFS French Events design went live. So this is an original design based on Year 2 neon, but without the NFS logo.
-
-If possible make sure to not make this Neon design go live, on the in-game store before July 20. After this date, make the *Year 10* Neon available to everyone to buy in-game.
-
-It will be a nice treat for the community. :)
-
-p.s. You can tease it, just make it settle.
+For servers, I have included the textures and there appropriate hashes to implement. It's meant to be used with Vltd and Arron, but this may vary for you.
 
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Language Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/store.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw071.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw072.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw073.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw075.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw077.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw079.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw081.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw083.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw084.jpg) | ![Default Directory](https://rawcdn.githack.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/383762e113656338b92d9a3b382842f45f7e4fee/Images/nfsw085.jpg)
+![Language Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/store.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw071.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw072.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw073.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw075.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw077.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw079.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw081.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw083.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw084.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw085.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw158.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw159.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw160.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw161.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw162.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw163.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/37869740660166c6098c20cb968fbb59e4c06f7c/.github/Images/Images/nfsw164.jpg) | ![N/A]()
+

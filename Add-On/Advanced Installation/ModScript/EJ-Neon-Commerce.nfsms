@@ -270,3 +270,43 @@ update_field virtualitem 0x93ba0695 title "NINERFAN NEON"
 update_field virtualitem 0x93ba0695 icon PART_R3_NE_PINK
 copy_node visualpart 0x44f1ac79 0x93ba0695
 update_field visualpart 0x93ba0695 visualPartHash 3094965934
+
+# CARNEONGLOW_21ST_CENTURY
+copy_node virtualitem 0x44f1ac79 0x043be455
+update_field virtualitem 0x043be455 hash 1307219376
+update_field virtualitem 0x043be455 itemName CARNEONGLOW_21ST_CENTURY
+update_field virtualitem 0x043be455 brand visual_brand_eaglejump
+update_field virtualitem 0x043be455 title "21ST CENTURY NEON"
+update_field virtualitem 0x043be455 icon PART_R3_NE_ORANGE
+copy_node visualpart 0x44f1ac79 0x043be455
+update_field visualpart 0x043be455 visualPartHash 1307219376
+
+# CARNEONGLOW_BUSHIDO
+copy_node virtualitem 0x44f1ac79 0xbf30b6e0
+update_field virtualitem 0xbf30b6e0 hash 2121542155
+update_field virtualitem 0xbf30b6e0 itemName CARNEONGLOW_BUSHIDO
+update_field virtualitem 0xbf30b6e0 brand visual_brand_eaglejump
+update_field virtualitem 0xbf30b6e0 title "BUSHIDO NEON"
+update_field virtualitem 0xbf30b6e0 icon PART_R3_NE_GREEN
+copy_node visualpart 0x44f1ac79 0xbf30b6e0
+update_field visualpart 0xbf30b6e0 visualPartHash 2121542155
+
+# CARNEONGLOW_STACKED_DECK
+copy_node virtualitem 0x44f1ac79 0xec93a509
+update_field virtualitem 0xec93a509 hash 4154062194
+update_field virtualitem 0xec93a509 itemName CARNEONGLOW_STACKED_DECK
+update_field virtualitem 0xec93a509 brand visual_brand_eaglejump
+update_field virtualitem 0xec93a509 title "STACKED DECK NEON"
+update_field virtualitem 0xec93a509 icon PART_R3_NE_RED
+copy_node visualpart 0x44f1ac79 0xec93a509
+update_field visualpart 0xec93a509 visualPartHash 4154062194
+
+# CARNEONGLOW_TFK
+copy_node virtualitem 0x44f1ac79 0x31cc9bb3
+update_field virtualitem 0x31cc9bb3 hash 3753655874
+update_field virtualitem 0x31cc9bb3 itemName CARNEONGLOW_TFK
+update_field virtualitem 0x31cc9bb3 brand visual_brand_eaglejump
+update_field virtualitem 0x31cc9bb3 title "TFK NEON"
+update_field virtualitem 0x31cc9bb3 icon PART_R3_NE_BLUE
+copy_node visualpart 0x44f1ac79 0x31cc9bb3
+update_field visualpart 0x31cc9bb3 visualPartHash 3753655874

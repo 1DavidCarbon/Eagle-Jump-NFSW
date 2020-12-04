@@ -1,0 +1,126 @@
+	{
+      "Name": "CARNEONGLOW_SUH",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_SUH"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3753655277,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_KURUHS",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_KURUHS"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2759195327,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_NOBED",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NOBED"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3210548741,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_LP_RIPPER24",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_LP_RIPPER24"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2135510256,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CRAPTASTICJACK",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CRAPTASTICJACK"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2683446116,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_NINERFAN",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NINERFAN"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3094965934,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }

@@ -1,0 +1,84 @@
+	{
+      "Name": "CARNEONGLOW_21ST_CENTURY",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_21ST_CENTURY"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1307219376,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_BUSHIDO",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_BUSHIDO"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2121542155,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_STACKED_DECK",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_STACKED_DECK"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 4154062194,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_TFK",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_TFK"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3753655874,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }

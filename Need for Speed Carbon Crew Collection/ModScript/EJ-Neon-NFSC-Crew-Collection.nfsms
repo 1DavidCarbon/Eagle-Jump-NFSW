@@ -1,0 +1,65 @@
+game W
+ui_text Eagle Jump Neons v1.2.7.SC
+ui_text by DavidCarbon
+ui_text https://davidcarbon.dev
+ui_text#
+ui_text The world's first community created neon designs for Neons in Need for Speed: World
+ui_text#
+ui_text New Visual Brand will be added to mark a new era of designs:
+ui_text - Eagle Jump
+ui_text#
+ui_text Need for Speed: Carbon Crew's Collection - 10/10/2020
+ui_text#
+ui_text This Collection Includes the following:
+ui_text - 21St Century
+ui_text - Bushido
+ui_text - Stacked Deck 
+ui_text - TFK
+ui_text#
+ui_text Found an error? Report it on the GitHub Issues Page!
+ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
+
+# EAGLE JUMP VISUAL BRAND
+copy_node brands visual_brand_nfs visual_brand_eaglejump
+update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
+
+# CARNEONGLOW_21ST_CENTURY
+copy_node virtualitem 0x44f1ac79 0x043be455
+update_field virtualitem 0x043be455 hash 1307219376
+update_field virtualitem 0x043be455 itemName CARNEONGLOW_21ST_CENTURY
+update_field virtualitem 0x043be455 brand visual_brand_eaglejump
+update_field virtualitem 0x043be455 title "21ST CENTURY NEON"
+update_field virtualitem 0x043be455 icon PART_R3_NE_ORANGE
+copy_node visualpart 0x44f1ac79 0x043be455
+update_field visualpart 0x043be455 visualPartHash 1307219376
+
+# CARNEONGLOW_BUSHIDO
+copy_node virtualitem 0x44f1ac79 0xbf30b6e0
+update_field virtualitem 0xbf30b6e0 hash 2121542155
+update_field virtualitem 0xbf30b6e0 itemName CARNEONGLOW_BUSHIDO
+update_field virtualitem 0xbf30b6e0 brand visual_brand_eaglejump
+update_field virtualitem 0xbf30b6e0 title "BUSHIDO NEON"
+update_field virtualitem 0xbf30b6e0 icon PART_R3_NE_GREEN
+copy_node visualpart 0x44f1ac79 0xbf30b6e0
+update_field visualpart 0xbf30b6e0 visualPartHash 2121542155
+
+# CARNEONGLOW_STACKED_DECK
+copy_node virtualitem 0x44f1ac79 0xec93a509
+update_field virtualitem 0xec93a509 hash 4154062194
+update_field virtualitem 0xec93a509 itemName CARNEONGLOW_STACKED_DECK
+update_field virtualitem 0xec93a509 brand visual_brand_eaglejump
+update_field virtualitem 0xec93a509 title "STACKED DECK NEON"
+update_field virtualitem 0xec93a509 icon PART_R3_NE_RED
+copy_node visualpart 0x44f1ac79 0xec93a509
+update_field visualpart 0xec93a509 visualPartHash 4154062194
+
+# CARNEONGLOW_TFK
+copy_node virtualitem 0x44f1ac79 0x31cc9bb3
+update_field virtualitem 0x31cc9bb3 hash 3753655874
+update_field virtualitem 0x31cc9bb3 itemName CARNEONGLOW_TFK
+update_field virtualitem 0x31cc9bb3 brand visual_brand_eaglejump
+update_field virtualitem 0x31cc9bb3 title "TFK NEON"
+update_field virtualitem 0x31cc9bb3 icon PART_R3_NE_BLUE
+copy_node visualpart 0x44f1ac79 0x31cc9bb3
+update_field visualpart 0x31cc9bb3 visualPartHash 3753655874

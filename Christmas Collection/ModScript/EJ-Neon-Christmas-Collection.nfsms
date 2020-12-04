@@ -1,0 +1,109 @@
+game W
+ui_text Eagle Jump Neons v1.2.8
+ui_text by DavidCarbon
+ui_text https://davidcarbon.dev
+ui_text#
+ui_text The world's first community created neon designs for Neons in Need for Speed: World
+ui_text#
+ui_text New Visual Brand will be added to mark a new era of designs:
+ui_text - Eagle Jump
+ui_text#
+ui_text Christmas Collection - 12/4/2020
+ui_text#
+ui_text This Collection Includes the following:
+ui_text - Modern Christmas Tree
+ui_text - Classic Christmas Tree
+ui_text - Neneru 
+ui_text - Christmas Presents
+ui_text - Hifumu 
+ui_text - Santa's Sleigh
+ui_text - Padoba
+ui_text - Padoru Clothing Sus
+ui_text#
+ui_text Found an error? Report it on the GitHub Issues Page!
+ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
+
+# EAGLE JUMP VISUAL BRAND
+copy_node brands visual_brand_nfs visual_brand_eaglejump
+update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
+
+# CARNEONGLOW_CHRISTMAS_CLASSIC_TREE
+copy_node virtualitem 0x44f1ac79 0xd3dece43
+update_field virtualitem 0xd3dece43 hash 1134024315
+update_field virtualitem 0xd3dece43 itemName CARNEONGLOW_CHRISTMAS_CLASSIC_TREE
+update_field virtualitem 0xd3dece43 brand visual_brand_eaglejump
+update_field virtualitem 0xd3dece43 title "CLASSIC CHRISTMAS TREE NEON"
+update_field virtualitem 0xd3dece43 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xd3dece43
+update_field visualpart 0xd3dece43 visualPartHash 1134024315
+
+# CARNEONGLOW_CHRISTMAS_MODERN_TREE
+copy_node virtualitem 0x44f1ac79 0xe1c13301
+update_field virtualitem 0xe1c13301 hash 813271102
+update_field virtualitem 0xe1c13301 itemName CARNEONGLOW_CHRISTMAS_MODERN_TREE
+update_field virtualitem 0xe1c13301 brand visual_brand_eaglejump
+update_field virtualitem 0xe1c13301 title "MODERN CHRISTMAS TREE NEON"
+update_field virtualitem 0xe1c13301 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xe1c13301
+update_field visualpart 0xe1c13301 visualPartHash 813271102
+
+# CARNEONGLOW_CHRISTMAS_NENERU
+copy_node virtualitem 0x44f1ac79 0x25fe1018
+update_field virtualitem 0x25fe1018 hash 1861162135
+update_field virtualitem 0x25fe1018 itemName CARNEONGLOW_CHRISTMAS_NENERU
+update_field virtualitem 0x25fe1018 brand visual_brand_eaglejump
+update_field virtualitem 0x25fe1018 title "NENERU NEON"
+update_field virtualitem 0x25fe1018 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x25fe1018
+update_field visualpart 0x25fe1018 visualPartHash 1861162135
+
+# CARNEONGLOW_CHRISTMAS_PADOBA
+copy_node virtualitem 0x44f1ac79 0xad3c6a5a
+update_field virtualitem 0xad3c6a5a hash 1934340209
+update_field virtualitem 0xad3c6a5a itemName CARNEONGLOW_CHRISTMAS_PADOBA
+update_field virtualitem 0xad3c6a5a brand visual_brand_eaglejump
+update_field virtualitem 0xad3c6a5a title "PADOBA NEON"
+update_field virtualitem 0xad3c6a5a icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xad3c6a5a
+update_field visualpart 0xad3c6a5a visualPartHash 1934340209
+
+# CARNEONGLOW_CHRISTMAS_PRESENTS
+copy_node virtualitem 0x44f1ac79 0x05b483c0
+update_field virtualitem 0x05b483c0 hash 2486635454
+update_field virtualitem 0x05b483c0 itemName CARNEONGLOW_CHRISTMAS_PRESENTS
+update_field virtualitem 0x05b483c0 brand visual_brand_eaglejump
+update_field virtualitem 0x05b483c0 title "CHRISTMAS PRESENTS NEON"
+update_field virtualitem 0x05b483c0 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x05b483c0
+update_field visualpart 0x05b483c0 visualPartHash 2486635454
+
+# CARNEONGLOW_CHRISTMAS_HIFUMU
+copy_node virtualitem 0x44f1ac79 0x5df03cee
+update_field virtualitem 0x5df03cee hash 1630823224
+update_field virtualitem 0x5df03cee itemName CARNEONGLOW_CHRISTMAS_HIFUMU
+update_field virtualitem 0x5df03cee brand visual_brand_eaglejump
+update_field virtualitem 0x5df03cee title "HIFUMU NEON"
+update_field virtualitem 0x5df03cee icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x5df03cee
+update_field visualpart 0x5df03cee visualPartHash 1630823224
+
+# CARNEONGLOW_CHRISTMAS_SANTA_SLEIGH
+copy_node virtualitem 0x44f1ac79 0x87de0d12
+update_field virtualitem 0x87de0d12 hash 1705659388
+update_field virtualitem 0x87de0d12 itemName CARNEONGLOW_CHRISTMAS_SANTA_SLEIGH
+update_field virtualitem 0x87de0d12 brand visual_brand_eaglejump
+update_field virtualitem 0x87de0d12 title "SANTA'S SLEIGH NEON"
+update_field virtualitem 0x87de0d12 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x87de0d12
+update_field visualpart 0x87de0d12 visualPartHash 1705659388
+
+# CARNEONGLOW_CHRISTMAS_UR_SUS
+copy_node virtualitem 0x44f1ac79 0xedbe3ef3
+update_field virtualitem 0xedbe3ef3 hash 2151153131
+update_field virtualitem 0xedbe3ef3 itemName CARNEONGLOW_CHRISTMAS_UR_SUS
+update_field virtualitem 0xedbe3ef3 brand visual_brand_eaglejump
+update_field virtualitem 0xedbe3ef3 title "PADORU CLOTHING SUS NEON"
+update_field virtualitem 0xedbe3ef3 icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xedbe3ef3
+update_field visualpart 0xedbe3ef3 visualPartHash 2151153131

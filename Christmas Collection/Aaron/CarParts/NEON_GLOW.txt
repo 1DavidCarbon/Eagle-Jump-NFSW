@@ -1,0 +1,168 @@
+    {
+      "Name": "CARNEONGLOW_CHRISTMAS_CLASSIC_TREE",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_CLASSIC_TREE"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1134024315,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_MODERN_TREE",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_MODERN_TREE"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 813271102,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_NENERU",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_NENERU"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1861162135,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_PADOBA",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_PADOBA"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1934340209,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_PRESENTS",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_PRESENTS"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2486635454,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_HIFUMU",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_HIFUMU"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1630823224,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_SANTA_SLEIGH",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_SANTA_SLEIGH"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1705659388,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_CHRISTMAS_UR_SUS",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_CHRISTMAS_UR_SUS"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2151153131,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }

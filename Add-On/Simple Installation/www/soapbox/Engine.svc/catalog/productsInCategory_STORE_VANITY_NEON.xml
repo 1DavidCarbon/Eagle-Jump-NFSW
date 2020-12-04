@@ -2876,7 +2876,7 @@
 		<WebIcon/>
 		<WebLocation/>
 	</ProductTrans>
-<ProductTrans>
+	<ProductTrans>
 		<BundleItems i:nil="true"/>
 		<CategoryId i:nil="true"/>
 		<Currency>CASH</Currency>
@@ -2897,7 +2897,7 @@
 		<WebIcon/>
 		<WebLocation/>
 	</ProductTrans>
-<ProductTrans>
+	<ProductTrans>
 		<BundleItems i:nil="true"/>
 		<CategoryId i:nil="true"/>
 		<Currency>CASH</Currency>
@@ -2918,7 +2918,7 @@
 		<WebIcon/>
 		<WebLocation/>
 	</ProductTrans>
-<ProductTrans>
+	<ProductTrans>
 		<BundleItems i:nil="true"/>
 		<CategoryId i:nil="true"/>
 		<Currency>CASH</Currency>
@@ -2939,7 +2939,7 @@
 		<WebIcon/>
 		<WebLocation/>
 	</ProductTrans>
-<ProductTrans>
+	<ProductTrans>
 		<BundleItems i:nil="true"/>
 		<CategoryId i:nil="true"/>
 		<Currency>CASH</Currency>
@@ -2953,6 +2953,174 @@
 		<Priority>0</Priority>
 		<ProductId>SRV-NEON141</ProductId>
 		<ProductTitle>TFK</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>1134024315</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON142</ProductId>
+		<ProductTitle>CLASSIC CHRISTMAS TREE</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>813271102</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON143</ProductId>
+		<ProductTitle>MODERN CHRISTMAS TREE</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>1861162135</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON144</ProductId>
+		<ProductTitle>NENERU</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>1934340209</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON145</ProductId>
+		<ProductTitle>PADOBA</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>2486635454</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON146</ProductId>
+		<ProductTitle>CHRISTMAS PRESENTS</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>1630823224</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON147</ProductId>
+		<ProductTitle>HIFUMU</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>1705659388</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON148</ProductId>
+		<ProductTitle>SANTA'S SLEIGH</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>2151153131</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON149</ProductId>
+		<ProductTitle>PADORU CLOTHING SUS</ProductTitle>
 		<ProductType>VISUALPART</ProductType>
 		<SecondaryIcon>New</SecondaryIcon>
 		<UseCount>1</UseCount>

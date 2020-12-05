@@ -37,8 +37,8 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw071.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw073.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw075.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw077.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw079.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw081.jpg)
+![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw071.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw073.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw075.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw077.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw079.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox%20Race%20World%20Collectionnfsw081.jpg)

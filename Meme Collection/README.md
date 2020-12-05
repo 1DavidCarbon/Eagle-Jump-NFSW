@@ -30,5 +30,5 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw083.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw183.jpg) | ![]()
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Meme%20Collection/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Meme%20Collection/nfsw083.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Meme%20Collection/nfsw183.jpg) | ![]()

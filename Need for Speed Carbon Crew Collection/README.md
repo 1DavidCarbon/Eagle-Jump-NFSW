@@ -31,7 +31,7 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw168.jpg) | ![N/A](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw169.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw170.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw167.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need%20for%20Speed%20Carbon%20Crew%20Collection/nfsw168.jpg) | ![N/A](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need%20for%20Speed%20Carbon%20Crew%20Collection/nfsw169.jpg)
+![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need%20for%20Speed%20Carbon%20Crew%20Collection/nfsw170.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need%20for%20Speed%20Carbon%20Crew%20Collection/nfsw167.jpg)
 
 

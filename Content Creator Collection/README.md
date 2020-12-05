@@ -33,6 +33,6 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw158.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw159.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw164.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw161.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw162.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw163.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content%20Creator%20Collection/nfsw158.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content%20Creator%20Collection/nfsw159.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content%20Creator%20Collection/nfsw164.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content%20Creator%20Collection/nfsw161.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content%20Creator%20Collection/nfsw162.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content%20Creator%20Collection/nfsw163.jpg)

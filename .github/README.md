@@ -48,19 +48,19 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Language Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/store.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw071.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw072.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw073.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw075.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw077.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw079.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw081.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw083.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw084.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw085.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw158.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw159.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw160.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw161.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw162.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw163.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw164.jpg) | ![N/A](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw167.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw168.jpg) | ![N/A](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw169.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw170.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw183.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Store/store.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw071.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Eagle Jump Studio Collection/nfsw072.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw073.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw074.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw075.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw076.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw077.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw078.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw079.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw080.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Soapbox Race World Collection/nfsw081.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Meme Collection/nfsw082.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Meme Collection/nfsw083.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Discord Collection/nfsw084.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Year 10 Collection/nfsw085.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content Creator Collection/nfsw158.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content Creator Collection/nfsw159.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Year 10 Collection/nfsw160.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content Creator Collection/nfsw161.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content Creator Collection/nfsw162.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content Creator Collection/nfsw163.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Content Creator Collection/nfsw164.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need for Speed Carbon Crew Collection/nfsw167.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need for Speed Carbon Crew Collection/nfsw168.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need for Speed Carbon Crew Collection/nfsw169.jpg)
+![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Need for Speed Carbon Crew Collection/nfsw170.jpg) | ![](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Meme Collection/nfsw183.jpg)
 
 

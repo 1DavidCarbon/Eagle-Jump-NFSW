@@ -37,8 +37,7 @@ For servers, I have included the textures and there appropriate hashes to implem
 ### Screenshots
 1             |  2
 :-------------------------:|:-------------------------:
-![Language Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw083.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw071.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw073.jpg)
+![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw071.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw073.jpg)
 ![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw075.jpg)
 ![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw077.jpg)
 ![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw079.jpg)

@@ -1,0 +1,54 @@
+game W
+ui_text Eagle Jump Neons v1.2.1.SC
+ui_text by DavidCarbon
+ui_text https://davidcarbon.dev
+ui_text#
+ui_text The world's first community created neon designs for Neons in Need for Speed: World
+ui_text#
+ui_text New Visual Brand will be added to mark a new era of designs:
+ui_text - Eagle Jump
+ui_text#
+ui_text Meme Collection - 09/03/2020
+ui_text#
+ui_text This Collection Includes the following:
+ui_text - UWU.GG
+ui_text - Error Codes
+ui_text - Dvio
+ui_text#
+ui_text Found an error? Report it on the GitHub Issues Page!
+ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
+
+# EAGLE JUMP VISUAL BRAND
+copy_node brands visual_brand_nfs visual_brand_eaglejump
+update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
+
+# CARNEONGLOW_UWU_GG
+copy_node virtualitem 0x44f1ac79 0xb7ff209e
+update_field virtualitem 0xb7ff209e hash 3153039755
+update_field virtualitem 0xb7ff209e itemName CARNEONGLOW_UWU_GG
+update_field virtualitem 0xb7ff209e brand visual_brand_eaglejump
+update_field virtualitem 0xb7ff209e title "UWU.GG NEON"
+update_field virtualitem 0xb7ff209e icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0xb7ff209e
+update_field visualpart 0xb7ff209e visualPartHash 3153039755
+
+# CARNEONGLOW_ERROR_CODES
+copy_node virtualitem 0x44f1ac79 0x036f9dfc
+update_field virtualitem 0x036f9dfc hash 161597236
+update_field virtualitem 0x036f9dfc itemName CARNEONGLOW_ERROR_CODES
+update_field virtualitem 0x036f9dfc brand visual_brand_eaglejump
+update_field virtualitem 0x036f9dfc title "ERROR CODES NEON"
+update_field virtualitem 0x036f9dfc icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x036f9dfc
+update_field visualpart 0x036f9dfc visualPartHash 161597236
+
+# CARNEONGLOW_BUGATTI_DIVO
+copy_node virtualitem 0x44f1ac79 0xbcac8255
+update_field virtualitem 0xbcac8255 hash 1220011486
+update_field virtualitem 0xbcac8255 itemName CARNEONGLOW_BUGATTI_DIVO
+update_field virtualitem 0xbcac8255 brand visual_brand_eaglejump
+update_field virtualitem 0xbcac8255 title "DIVO NEON"
+update_field virtualitem 0xbcac8255 icon PART_R3_NE_BLUE
+copy_node visualpart 0x44f1ac79 0xbcac8255
+update_field visualpart 0xbcac8255 visualPartHash 1220011486

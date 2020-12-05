@@ -1,0 +1,21 @@
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>2444655899</Hash>
+		<Icon>PART_R3_NE_PURPLE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON129</ProductId>
+		<ProductTitle>WUMPUS</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	

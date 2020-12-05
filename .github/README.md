@@ -1,66 +1,13 @@
 # Eagle Jump Neons
 
-Eagle Jump Neons v1.0
+Eagle Jump Neons Collection Branch
 by DavidCarbon
 https://davidcarbon.dev
 
-The world's first community created neon designs for Neons in Need for Speed: World
+# What is this Branch?
 
-New Visual Brand will be added to mark a new era of designs:
-- Eagle Jump
-
-What Neons are included:
-- Year 10
-- Soapbox Race World
-- Eagle Jump
-- NFS French Events
-- NFSW Community Hub
-- NightRiderz
-- The World Is Ours
-- WorldOnline.PL
-- World Evolved
-- WorldUnited.GG
-- Freeroam Sparkserver
-- Underground Stage
-- UWU.GG
-- Error Codes
-- Wumpus
-- 2009 NFS:W
-- Dvio
-- StraightupHippo
-- KuruHS
-- Nobeds
-- LP-RIPPER24
-- CRAPTASTICJACK
-- NinerFan
-
-Found an error? Report it on the GitHub Issues Page!
-https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
-
-# Add-ons
-
-For servers, I have included the textures and there appropriate hashes to implement. It's meant to be used with Vltd and Arron, but this may vary for you.
+This branch was created for those who might only want certain neons in a certain collection. This can also be used to install only a certain collection if you are that type of user. Existing users (for offline) can also use this branch to manually update their neon mod.
 
 # Latest Download Link
 
-[Download](https://github.com/1DavidCarbon/Eagle-Jump-NFSW/archive/master.zip)
-
-### Screenshots
-1             |  2
-:-------------------------:|:-------------------------:
-![Language Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/store.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw071.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw072.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw073.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw074.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw075.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw076.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw077.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw078.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw079.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw080.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw081.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw082.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw083.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw084.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw085.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw158.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw159.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw160.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw161.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw162.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw163.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw164.jpg) | ![N/A](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw167.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw168.jpg) | ![N/A](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw169.jpg)
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/master/.github/Images/nfsw170.jpg) | ![]()
-
-
+[Download](https://github.com/1DavidCarbon/Eagle-Jump-NFSW/archive/Collections.zip)

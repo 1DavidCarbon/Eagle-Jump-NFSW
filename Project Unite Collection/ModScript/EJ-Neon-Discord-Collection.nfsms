@@ -1,0 +1,32 @@
+game W
+ui_text Eagle Jump Neons v1.2.9.SC
+ui_text by DavidCarbon
+ui_text https://davidcarbon.dev
+ui_text#
+ui_text The world's first community created neon designs for Neons in Need for Speed: World
+ui_text#
+ui_text New Visual Brand will be added to mark a new era of designs:
+ui_text - Eagle Jump
+ui_text#
+ui_text Discord Collection - 06/30/2020
+ui_text#
+ui_text This Collection Includes the following:
+ui_text - Project Unite
+ui_text#
+ui_text Found an error? Report it on the GitHub Issues Page!
+ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
+
+# EAGLE JUMP VISUAL BRAND
+copy_node brands visual_brand_nfs visual_brand_eaglejump
+update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
+update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
+
+# CARNEONGLOW_PROJECT_UNITE
+copy_node virtualitem 0x44f1ac79 0xedbe3ef3
+update_field virtualitem 0x3808a3bb hash 1067373848
+update_field virtualitem 0x3808a3bb itemName CARNEONGLOW_PROJECT_UNITE
+update_field virtualitem 0x3808a3bb brand visual_brand_eaglejump
+update_field virtualitem 0x3808a3bb title "PROJECT UNITE NEON"
+update_field virtualitem 0x3808a3bb icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x3808a3bb
+update_field visualpart 0x3808a3bb visualPartHash 1067373848

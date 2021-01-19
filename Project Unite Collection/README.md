@@ -9,7 +9,7 @@ The world's first community created neon designs for Neons in Need for Speed: Wo
 New Visual Brand will be added to mark a new era of designs:
 - Eagle Jump
 
-Project Neon Collection - 01/18/2021
+Project Unite Collection - 01/18/2021
 
 This Collection Includes the following:
 - Project Unite

@@ -22,7 +22,7 @@ update_field brands visual_brand_eaglejump Icon visual_brand_eaglejump
 update_field brands visual_brand_eaglejump 0xd59138e6 "EAGLE JUMP"
 
 # CARNEONGLOW_PROJECT_UNITE
-copy_node virtualitem 0x44f1ac79 0xedbe3ef3
+copy_node virtualitem 0x44f1ac79 0x3808a3bb
 update_field virtualitem 0x3808a3bb hash 1067373848
 update_field virtualitem 0x3808a3bb itemName CARNEONGLOW_PROJECT_UNITE
 update_field virtualitem 0x3808a3bb brand visual_brand_eaglejump

@@ -392,7 +392,7 @@ copy_node visualpart 0x44f1ac79 0xedbe3ef3
 update_field visualpart 0xedbe3ef3 visualPartHash 2151153131
 
 # CARNEONGLOW_PROJECT_UNITE
-copy_node virtualitem 0x44f1ac79 0xedbe3ef3
+copy_node virtualitem 0x44f1ac79 0x3808a3bb
 update_field virtualitem 0x3808a3bb hash 1067373848
 update_field virtualitem 0x3808a3bb itemName CARNEONGLOW_PROJECT_UNITE
 update_field virtualitem 0x3808a3bb brand visual_brand_eaglejump

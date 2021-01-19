@@ -110,7 +110,7 @@
 		<Description>ALL CARS</Description>
 		<DurationMinute>0</DurationMinute>
 		<Hash>1805703773</Hash>
-		<Icon>PART_R3_NE_PURPLE</Icon>
+		<Icon>PART_R3_NE_WHITE</Icon>
 		<Level>0</Level>
 		<LongDescription/>
 		<Price>500.0000</Price>
@@ -733,3 +733,24 @@
 		<WebIcon/>
 		<WebLocation/>
 	</ProductTrans>	
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>1067373848</Hash>
+		<Icon>PART_R3_NE_WHITE</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON150</ProductId>
+		<ProductTitle>PROJECT UNITE</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>

@@ -730,4 +730,25 @@
       ]
     }
       ]
+    },
+	{
+      "Name": "CARNEONGLOW_PROJECT_UNITE",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_PROJECT_UNITE"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 1067373848,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
     }	

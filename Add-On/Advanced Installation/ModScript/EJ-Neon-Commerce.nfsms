@@ -97,7 +97,7 @@ update_field virtualitem 0x1321b592 hash 1805703773
 update_field virtualitem 0x1321b592 itemName CARNEONGLOW_NR
 update_field virtualitem 0x1321b592 brand visual_brand_eaglejump
 update_field virtualitem 0x1321b592 title "NIGHTRIDERZ NEON"
-update_field virtualitem 0x1321b592 icon PART_R3_NE_PURPLE
+update_field virtualitem 0x1321b592 icon PART_R3_NE_WHITE
 copy_node visualpart 0x44f1ac79 0x1321b592
 update_field visualpart 0x1321b592 visualPartHash 1805703773
 
@@ -390,3 +390,13 @@ update_field virtualitem 0xedbe3ef3 title "PADORU CLOTHING SUS NEON"
 update_field virtualitem 0xedbe3ef3 icon PART_R3_NE_WHITE
 copy_node visualpart 0x44f1ac79 0xedbe3ef3
 update_field visualpart 0xedbe3ef3 visualPartHash 2151153131
+
+# CARNEONGLOW_PROJECT_UNITE
+copy_node virtualitem 0x44f1ac79 0xedbe3ef3
+update_field virtualitem 0x3808a3bb hash 1067373848
+update_field virtualitem 0x3808a3bb itemName CARNEONGLOW_PROJECT_UNITE
+update_field virtualitem 0x3808a3bb brand visual_brand_eaglejump
+update_field virtualitem 0x3808a3bb title "PROJECT UNITE NEON"
+update_field virtualitem 0x3808a3bb icon PART_R3_NE_WHITE
+copy_node visualpart 0x44f1ac79 0x3808a3bb
+update_field visualpart 0x3808a3bb visualPartHash 1067373848

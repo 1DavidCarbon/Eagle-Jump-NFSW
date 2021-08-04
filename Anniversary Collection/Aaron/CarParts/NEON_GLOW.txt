@@ -1,0 +1,252 @@
+	{
+      "Name": "CARNEONGLOW_YR01",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR02"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751465,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_YR02",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR02"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751466,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_YR03",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR03"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751467,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_YR04",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR04"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751468,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_YR05",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR05"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751469,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_YR06",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR06"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751470,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_YR07",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR07"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751471,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_YR08",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR08"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751472,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_YR09",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR09"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751473,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_YR10",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR10"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751497,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },
+	{
+      "Name": "CARNEONGLOW_YR11",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR11"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751498,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    },	
+	{
+      "Name": "CARNEONGLOW_NFSW_2009",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NFSW_2009"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2929839077,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }

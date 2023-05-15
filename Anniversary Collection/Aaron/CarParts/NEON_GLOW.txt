@@ -249,4 +249,25 @@
           "Strings": []
         }
       ]
+    },
+	{
+      "Name": "CARNEONGLOW_YR13",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_YR13"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3611751500,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
     }

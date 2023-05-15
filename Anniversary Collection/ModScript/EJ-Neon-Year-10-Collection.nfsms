@@ -1,5 +1,5 @@
 game W
-ui_text Eagle Jump Neons v1.4.0.SC
+ui_text Eagle Jump Neons v1.5.0.SC
 ui_text by DavidCarbon
 ui_text https://davidcarbon.dev
 ui_text#
@@ -8,7 +8,7 @@ ui_text#
 ui_text New Visual Brand will be added:
 ui_text - Eagle Jump
 ui_text#
-ui_text Anniversary Collection - 07/14/2022
+ui_text Anniversary Collection - 05/15/2023
 ui_text#
 ui_text This Collection Includes the following:
 ui_text - Year 1
@@ -23,6 +23,7 @@ ui_text - Year 9
 ui_text - Year 10
 ui_text - Year 11
 ui_text - Year 12
+ui_text - Year 13
 ui_text#
 ui_text Found an error? Report it on the GitHub Issues Page!
 ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
@@ -151,3 +152,13 @@ update_field virtualitem 0xf4131c37 title "YEAR 12 NEON"
 update_field virtualitem 0xf4131c37 icon PART_R4_NE_EAGLE_JUMP
 copy_node visualpart 0x44f1ac79 0xf4131c37
 update_field visualpart 0xf4131c37 visualPartHash 3611751499
+
+# CARNEONGLOW_YR13
+copy_node virtualitem 0x44f1ac79 0xa870d350
+update_field virtualitem 0xa870d350 hash 3611751500
+update_field virtualitem 0xa870d350 itemName CARNEONGLOW_YR13
+update_field virtualitem 0xa870d350  brand visual_brand_eaglejump
+update_field virtualitem 0xa870d350 title "YEAR 13 NEON"
+update_field virtualitem 0xa870d350 icon PART_R4_NE_EAGLE_JUMP
+copy_node visualpart 0x44f1ac79 0xa870d350
+update_field visualpart 0xa870d350 visualPartHash 3611751500

@@ -228,25 +228,46 @@
 		<VisualStyle/>
 		<WebIcon/>
 		<WebLocation/>
-	</ProductTrans>		
+	</ProductTrans>
 	<ProductTrans>
 		<BundleItems i:nil="true"/>
 		<CategoryId i:nil="true"/>
 		<Currency>CASH</Currency>
 		<Description>ALL CARS</Description>
 		<DurationMinute>0</DurationMinute>
-		<Hash>2929839077</Hash>
+		<Hash>3611751499</Hash>
 		<Icon>PART_R4_NE_EAGLE_JUMP</Icon>
 		<Level>0</Level>
 		<LongDescription/>
 		<Price>500.0000</Price>
 		<Priority>0</Priority>
-		<ProductId>SRV-NEON130</ProductId>
-		<ProductTitle>2009 NFSW</ProductTitle>
+		<ProductId>SRV-NEON116</ProductId>
+		<ProductTitle>YEAR 12</ProductTitle>
 		<ProductType>VISUALPART</ProductType>
 		<SecondaryIcon>New</SecondaryIcon>
 		<UseCount>1</UseCount>
 		<VisualStyle/>
 		<WebIcon/>
 		<WebLocation/>
-	</ProductTrans>		
+	</ProductTrans>
+	<ProductTrans>
+		<BundleItems i:nil="true"/>
+		<CategoryId i:nil="true"/>
+		<Currency>CASH</Currency>
+		<Description>ALL CARS</Description>
+		<DurationMinute>0</DurationMinute>
+		<Hash>3611751500</Hash>
+		<Icon>PART_R4_NE_EAGLE_JUMP</Icon>
+		<Level>0</Level>
+		<LongDescription/>
+		<Price>500.0000</Price>
+		<Priority>0</Priority>
+		<ProductId>SRV-NEON117</ProductId>
+		<ProductTitle>YEAR 13</ProductTitle>
+		<ProductType>VISUALPART</ProductType>
+		<SecondaryIcon>New</SecondaryIcon>
+		<UseCount>1</UseCount>
+		<VisualStyle/>
+		<WebIcon/>
+		<WebLocation/>
+	</ProductTrans>	

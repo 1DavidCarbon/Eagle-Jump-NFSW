@@ -23,7 +23,6 @@ This Collection Includes the following:
 - Year 9
 - Year 10
 - Year 11
-- NFSW 2009
 
 Found an error? Report it on the GitHub Issues Page!
 https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
@@ -31,12 +30,3 @@ https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
 # Add-ons
 
 For servers, I have included the textures and there appropriate hashes to implement. It's meant to be used with Vltd and Arron, but this may vary for you.
-
-# Latest Download Link
-
-[Download](https://github.com/1DavidCarbon/Eagle-Jump-NFSW/archive/Collections.zip)
-
-### Screenshots
-1             |  2
-:-------------------------:|:-------------------------:
-![Finished Installation Prompt](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Year%2010%20Collection/nfsw160.jpg) | ![Default Directory](https://rawcdn.githack.com/1DavidCarbon/Eagle-Jump-NFSW/Images/Year%2010%20Collection/nfsw085.jpg)

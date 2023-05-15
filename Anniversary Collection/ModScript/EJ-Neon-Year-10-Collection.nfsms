@@ -1,14 +1,14 @@
 game W
-ui_text Eagle Jump Neons v1.3.0.SC
+ui_text Eagle Jump Neons v1.4.0.SC
 ui_text by DavidCarbon
 ui_text https://davidcarbon.dev
 ui_text#
 ui_text The world's first community created neon designs for Neons in Need for Speed: World
 ui_text#
-ui_text New Visual Brand will be added to mark a new era of designs:
+ui_text New Visual Brand will be added:
 ui_text - Eagle Jump
 ui_text#
-ui_text Anniversary Collection - 08/03/2020
+ui_text Anniversary Collection - 07/14/2022
 ui_text#
 ui_text This Collection Includes the following:
 ui_text - Year 1
@@ -22,7 +22,7 @@ ui_text - Year 8
 ui_text - Year 9
 ui_text - Year 10
 ui_text - Year 11
-ui_text - NFSW 2009
+ui_text - Year 12
 ui_text#
 ui_text Found an error? Report it on the GitHub Issues Page!
 ui_text https://github.com/DavidCarbon-SBRW/Eagle-Jump-NFSW/issues
@@ -142,12 +142,12 @@ update_field virtualitem 0x6bf3238f icon PART_R4_NE_EAGLE_JUMP
 copy_node visualpart 0x44f1ac79 0x6bf3238f
 update_field visualpart 0x6bf3238f visualPartHash 3611751498
 
-# CARNEONGLOW_NFSW_2009
-copy_node virtualitem 0x44f1ac79 0xaf21e33d
-update_field virtualitem 0xaf21e33d hash 2929839077
-update_field virtualitem 0xaf21e33d itemName CARNEONGLOW_NFSW_2009
-update_field virtualitem 0xaf21e33d brand visual_brand_eaglejump
-update_field virtualitem 0xaf21e33d title "2009 NFS:W Neon"
-update_field virtualitem 0xaf21e33d icon PART_R4_NE_EAGLE_JUMP
-copy_node visualpart 0x44f1ac79 0xaf21e33d
-update_field visualpart 0xaf21e33d visualPartHash 2929839077
+# CARNEONGLOW_YR12
+copy_node virtualitem 0x44f1ac79 0xf4131c37
+update_field virtualitem 0xf4131c37 hash 3611751499
+update_field virtualitem 0xf4131c37 itemName CARNEONGLOW_YR12
+update_field virtualitem 0xf4131c37  brand visual_brand_eaglejump
+update_field virtualitem 0xf4131c37 title "YEAR 12 NEON"
+update_field virtualitem 0xf4131c37 icon PART_R4_NE_EAGLE_JUMP
+copy_node visualpart 0x44f1ac79 0xf4131c37
+update_field visualpart 0xf4131c37 visualPartHash 3611751499

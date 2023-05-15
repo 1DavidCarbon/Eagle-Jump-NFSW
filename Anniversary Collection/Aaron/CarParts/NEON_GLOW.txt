@@ -4,7 +4,7 @@
         {
           "Name": "NAME_OFFSET",
           "Strings": [
-            "CARNEONGLOW_YR02"
+            "CARNEONGLOW_YR01"
           ]
         },
         {
@@ -228,19 +228,19 @@
           "Strings": []
         }
       ]
-    },	
+    },
 	{
-      "Name": "CARNEONGLOW_NFSW_2009",
+      "Name": "CARNEONGLOW_YR12",
       "Attributes": [
         {
           "Name": "NAME_OFFSET",
           "Strings": [
-            "CARNEONGLOW_NFSW_2009"
+            "CARNEONGLOW_YR12"
           ]
         },
         {
           "Name": "TEXTUREHASH",
-          "Value": 2929839077,
+          "Value": 3611751499,
           "Strings": []
         },
         {

@@ -1,0 +1,21 @@
+	{
+      "Name": "CARNEONGLOW_NFSW_2009",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_NFSW_2009"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 2929839077,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }

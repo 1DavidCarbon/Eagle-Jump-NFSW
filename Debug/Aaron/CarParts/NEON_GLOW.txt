@@ -1,0 +1,21 @@
+	{
+      "Name": "CARNEONGLOW_DEBUG",
+      "Attributes": [
+        {
+          "Name": "NAME_OFFSET",
+          "Strings": [
+            "CARNEONGLOW_DEBUG"
+          ]
+        },
+        {
+          "Name": "TEXTUREHASH",
+          "Value": 3198330692,
+          "Strings": []
+        },
+        {
+          "Name": "PARTID_UPGRADE_GROUP",
+          "Value": 25888,
+          "Strings": []
+        }
+      ]
+    }
